@@ -25,5 +25,7 @@ for i in range (10) :
         correct_answer += multiples
 if score == 10:
     print ("Congratulations! 🥳🥳🥳 You scored", score, "out of 10! ")
+    print ("")
 print ("You scored ", score, "out of 10!")
+print ("")
 
